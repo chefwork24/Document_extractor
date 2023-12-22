@@ -1,6 +1,0 @@
-google-generativeai
-langchain
-pypdf
-PyPDF2
-faiss-cpu==1.7.4
-
