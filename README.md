@@ -1,2 +1,18 @@
-# Document_extractor
-Scans Documents and returns results to required queries like important data ,summary ,etc.
+
+# Document Extractor
+
+This tool enables users to scan documents and create a local interface similar to GPT, allowing them to query the documents directly for specific information. This can significantly save time compared to manually reading through each document to extract the needed information.
+
+
+
+
+## Working Principle
+
+![]()
+
+
+## Acknowledgements
+
+ - [Google PALM](https://huggingface.co/google/flan-t5-base)
+
+
