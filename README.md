@@ -8,7 +8,7 @@ This tool enables users to scan documents and create a local interface similar t
 
 ## Working Principle
 
-![]()
+![](https://github.com/chefwork24/Document_extractor/blob/5ff5283bcce2313116098bb9afe87883a448e742/principle.webp)
 
 
 ## Acknowledgements
